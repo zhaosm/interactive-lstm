@@ -1,5 +1,5 @@
 ### Interactive Match LSTM
----
+
 the interactive-match-lstm model for questioin duplicate recognization
 
 word embedding: glove(6B), randomly initialize words not in glove

@@ -18,4 +18,4 @@ train: `python main.py`
 
 (pre_procession.py is written under py3, while the other parts under py2)
 
-the sketch of model is under designs/
+the description and a sketch of model is under designs/
